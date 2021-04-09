@@ -1,0 +1,54 @@
+
+.App{
+	height :100%;
+	background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+	text-align: center;
+	
+	
+	
+
+}
+.search-bar{
+	padding: 10px;
+	box-shadow: 0 10px 10px black;
+	width: 50%%;
+	border :none;
+}
+.search-form{
+	min-height: 10vh;
+	display :flex;
+	justify-content: center;
+	align-items: center;
+	border: none;
+}
+.search-button{
+	background: black;
+	color: white;
+	padding: 10px 20px;
+}
+.recipes{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.rat{
+	border-radius: 10px;
+	box-shadow: 0 5px 20px rgb(71, 71, 71);
+	margin:5px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	background: white;
+	align-items: center;
+	min-width: 40%;
+
+}
+ .img{
+	border-radius: 50%;
+	width:50%;
+	height: 50%;
+}
+.rata{
+
+}
+
